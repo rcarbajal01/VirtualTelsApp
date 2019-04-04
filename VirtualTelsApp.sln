@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VirtualTelsAPI", "VirtualTelsAPI\VirtualTelsAPI.csproj", "{7B69D4DF-D8B8-428D-B738-93D7E55C2851}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualTelsSPA", "VirtualTelsSPA\VirtualTelsSPA.csproj", "{6C372767-99CC-40E9-BFAC-FEE48DFBFDE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B69D4DF-D8B8-428D-B738-93D7E55C2851}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B69D4DF-D8B8-428D-B738-93D7E55C2851}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B69D4DF-D8B8-428D-B738-93D7E55C2851}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B69D4DF-D8B8-428D-B738-93D7E55C2851}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C372767-99CC-40E9-BFAC-FEE48DFBFDE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C372767-99CC-40E9-BFAC-FEE48DFBFDE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C372767-99CC-40E9-BFAC-FEE48DFBFDE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C372767-99CC-40E9-BFAC-FEE48DFBFDE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3593A3E-E537-41A5-8C07-5BF79B8ABADA}
+	EndGlobalSection
+EndGlobal
